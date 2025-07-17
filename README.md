@@ -11,3 +11,16 @@ Performed integration testing, defect fixing, and performance tuning during syst
 Handled end-to-end production deployment
 
 Utilized Splunk for dashboard and monitoring
+
+## points 2
+Followed Agile framework; collaborated with business teams for story grooming and acceptance criteria
+
+Built backend services using Java with unit testing via JUnit and Mockito
+
+Implemented REST microservices using Spring Boot with standardized protocols
+
+Used Swagger for API documentation and Splunk for log management and API failure tracking
+
+Improved SonarQube code coverage; performed integration testing and defect fixing
+
+
